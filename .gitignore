@@ -3,3 +3,4 @@
 # Custom
 .env
 .editorconfig
+.DS_Store
